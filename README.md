@@ -80,7 +80,7 @@ https://www.linkedin.com/in/naima-tilahun
 https://github.com/NaimaT15
 
 📧 Email
-[naimatilahun21@gmail.com](mailto:naimatilahun21@gmail.com)
+[naimatilahun77@gmail.com](mailto:naimatilahun77@gmail.com)
 
 ---
 
