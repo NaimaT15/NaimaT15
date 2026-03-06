@@ -1,16 +1,75 @@
-## Hi there 👋
+# Hi 👋 I'm Naima Tilahun 
 
-<!--
-**NaimaT15/NaimaT15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer | 📊 Data Scientist | 🤖 AI Enthusiast
 
-Here are some ideas to get you started:
+I am passionate about building scalable web applications and using data to solve real-world problems.
+I enjoy working with modern technologies and continuously improving my skills in **software development, AI, and data science**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 🔭 Currently working on **AI, Data Science, and Full-Stack projects**
+* 🌱 Learning **Advanced Machine Learning and System Design**
+* 👯 Interested in collaborating on **open-source and impactful tech projects**
+* 🎯 Goal: Build technology that creates real-world impact
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+* HTML
+* CSS
+* JavaScript
+* Angular
+* Bootstrap
+
+**Backend**
+
+* Node.js
+* Express.js
+* Spring Boot
+* Laravel
+* PHP
+* Python
+
+**Database**
+
+* MySQL
+
+**DevOps & Tools**
+
+* Docker
+* Git & GitHub
+* CI/CD
+
+**Data Science**
+
+* Python
+* Pandas
+* NumPy
+* Machine Learning
+* Data Visualization
+
+---
+
+## 📂 Featured Projects
+
+* 📊 **Telecom Data Analysis (TellCo)** – Data analysis and business insight dashboard
+* ☀️ **Solar Radiation Analysis** – Exploratory data analysis and visualization
+* 🛰️ **NASA Astronaut Analysis** – SQL + Python research project
+* 📈 **Financial News & Stock Price Dataset** – Data integration and analysis
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/naima-tilahun
+* 💻 GitHub: https://github.com/NaimaT15
+* 📧 Email: [naimatilahun77@gmail.com](mailto:naimatilahun77@gmail.com)
+
+---
+
+⭐ *“Code, Data, and Curiosity drive innovation.”*
